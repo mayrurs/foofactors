@@ -2,8 +2,7 @@ Package: foofactors
 Title: Make working with factors less painfull
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Urs"
-           family = "Mayr",
+    person("Urs", "Mayr",
            role = c("aut", "cre"),
            email = "mayr.urs@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
